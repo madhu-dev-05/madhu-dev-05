@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madhu-dev-05
+- 👋 Hi, I’m Lagishetty Madhu
 - 🌱 I’m currently learning advanced TypeScript, TanStack tools, and system design.
 - 🛠️ Tools I use: React, Vite, TypeScript, Tailwind, Turborepo, Node.js
 
